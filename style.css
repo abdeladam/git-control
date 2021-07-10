@@ -3,5 +3,11 @@ body{
     padding: 0%;
     background-color: blueviolet;
     font-family: 'Times New Roman', Times, serif;
-    
+
+}
+.pragraph {
+    background-color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+
 }
